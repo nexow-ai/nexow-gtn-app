@@ -36,6 +36,8 @@ Thumbs.db
 
 # TypeScript / Vite
 *.tsbuildinfo
+vite.config.d.ts
+vite.config.js
 .cache/
 .parcel-cache/
 .vite/
